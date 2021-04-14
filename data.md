@@ -13,3 +13,13 @@
 | Video URL | TBD |
 | Feeback | TBD |
 | Assigned to | TBD |
+
+<table>
+  <tr>
+    <td>One</td>
+    <td>Two</td>
+  </tr>
+  <tr>
+    <td colspan="2">Three</td>
+  </tr>
+</table>
