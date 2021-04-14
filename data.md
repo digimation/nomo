@@ -1,5 +1,7 @@
 # Data Sub-module
 
+[Video Link](https://youtu.be/0fKg7e37bQE)
+
 **Module Name:** Pilot  
 **Sub-module Name:** Data  
 **Video URL:** TBD  
