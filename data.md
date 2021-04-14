@@ -4,7 +4,7 @@
 | ---- | --- |
 | Module Name | Pilot |
 | Sub-module Name | Data |
-| Video URL | TBD |
-| Assigned to | TBD |
+| Video URL | [Video Link](https://youtu.be/0fKg7e37bQE) |
+| Assigned to | Abel |
 
 **Feedback:** TDB  
