@@ -6,7 +6,6 @@
 **Feedback:** TDB  
 **Assigned to:** TBD  
 
-| Module  | sub-module | video URL | Feedback | Assign to |
 | ---- | --- | --- | --- | --- |
 | Module Name | Pilot |
 | Sub-module Name | Data |
