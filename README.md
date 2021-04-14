@@ -10,4 +10,8 @@ Each document is structured in the following way:
 * Assigned to
 
 ## Sub-modules Documents
-* [data.md](roadmap.md)
+* [data.md](data.md)
+* [security.md](security.md)
+* [ml.md](ml.md)
+* [iot.md](iot.md)
+* [nn.md](nn.md)
