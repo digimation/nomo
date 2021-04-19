@@ -9,4 +9,4 @@
 
 **Feedback:** Fer: tal vez para una persona que no está relacionada con el área, no le sean familiares las siglas de "AI" y "ML", sería conveniente mencionar lo que significan en lugar de las siglas 
 
-**Feedback:** Dani: Por qué es importante aprender sobre data science, etc? Mencionar un poco sobre el poder de los datos en cualquier negocio
+**Feedback:** Dani: Por qué es importante aprender sobre data science, etc? Mencionar un poco sobre el poder de los datos en cualquier negocio.
