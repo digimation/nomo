@@ -10,5 +10,5 @@
 **Feedback:**
 | Assigned to | Feedback |
 | --- | -------- |
-| Abel |  |
+| Abel | Think of a practical example. Why would my mother care about IOT? |
 | Fer |  |
