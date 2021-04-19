@@ -7,4 +7,6 @@
 | Video URL | [Video Link](https://drive.google.com/file/d/1fxBj9oOX7UE8fTUDKxi7FGH4F0hqFGcW/view) |
 | Assigned to | Cristina |
 
-*Feedback:* TDB today
+*Feedback:* 
+
+***Mariana:*** usar chance un ejemplo a la vez que se va explicando cómo funciona, o sea el proceso de los nodos. 
