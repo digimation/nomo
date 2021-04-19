@@ -10,5 +10,5 @@
 **Feedback:**
 | Assigned to | Feedback |
 | --- | -------- |
-| Abel |  |
+| Abel | can you give practical example? What is 1 simple step someone can take? |
 | Cris |  |
