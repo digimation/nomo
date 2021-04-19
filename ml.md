@@ -8,4 +8,5 @@
 | Assigned to | Fernanda |
 
 **Feedback:**
+
 ***Mariana:*** ¿cuál sería un ejemplo de las decisiones que debe tomar? ¿Cómo podría aplicar ML en mi vida diaria?
