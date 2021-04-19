@@ -11,4 +11,4 @@
 | Assigned to | Feedback |
 | --- | -------- |
 | Abel | can you give practical example? What is 1 simple step someone can take? |
-| Cris |  |
+| Cris |  Mencionar ejemplos de cómo aplicar la seguridad informática en mi día a día. |
