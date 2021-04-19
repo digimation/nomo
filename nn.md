@@ -10,3 +10,5 @@
 *Feedback:* 
 
 ***Mariana:*** usar chance un ejemplo a la vez que se va explicando cómo funciona, o sea el proceso de los nodos. 
+
+**Dani:** Explicar como funciona paso a paso de forma sencilla.
