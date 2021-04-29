@@ -10,33 +10,34 @@ Each document is structured in the following way:
 * Assigned to
 
 ## lessons
+
 * Github - high level - 2 mins (Cris, Fer)
  * add, commit, pull request, accept pull request
 
 * Github - basics 3 mins (dani,fer)
- * create account - 15 secs
- * create repository - 20 secs 
- * add a collaborators - 30 secs, check options on account type
- * create a file - 15 secs - text only
+  * create account - 15 secs
+  * create repository - 20 secs 
+  * add a collaborators - 30 secs, check options on account type
+  * create a file - 15 secs - text only
 
-* MarkDown (MD) - 3 mins (Cris,Mari) 
- * paragraphs
- * lists
- * links
- * local links
- * headers
- * Bold - emphasis
- * tables
+* MarkDown (MD) - 3 mins (Cris, Mari) 
+  * paragraphs
+  * lists
+  * links
+  * local links
+  * headers
+  * Bold - emphasis
+  * tables
 
 * Github - management 3 mins (Mari, Dani)
- * assign issues
- * pull requests
- * reviews
- * close issues
- * Notifactions
+  * assign issues
+  * pull requests
+  * reviews
+  * close issues
+  * Notifactions
 
 * Kanban (Unassigned)
- * TBD - report back
+  * TBD - report back
 
 ## Sub-modules Documents
 * [data.md](data.md)
