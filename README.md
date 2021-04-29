@@ -12,7 +12,7 @@ Each document is structured in the following way:
 ## lessons
 
 * Github - high level - 2 mins (Cris, Fer)
- * add, commit, pull request, accept pull request
+  * add, commit, pull request, accept pull request
 
 * Github - basics 3 mins (dani,fer)
   * create account - 15 secs
