@@ -4,21 +4,24 @@ Github Project Management R&amp;D
 ## Template
 Each document is structured in the following way:
 * Module Name
-* Sub-module Name
+* Description
 * Video URL
 * Feedback
-* Assigned to
 
 ## lessons
 
-* Github - high level - 2 mins (Cris, Fer)
+* Github Concepts - 2 mins (Cris, Fer)
   * add, commit, pull request, accept pull request
+  * [concepts.md](concepts.md)
+  <br>
 
-* Github - basics 3 mins (dani,fer)
+* Github Basics - 3 mins (Dani, Fer)
   * create account - 15 secs
   * create repository - 20 secs 
   * add a collaborators - 30 secs, check options on account type
   * create a file - 15 secs - text only
+  * [github.md](github.md)  
+  <br>
 
 * MarkDown (MD) - 3 mins (Cris, Mari) 
   * paragraphs
@@ -28,6 +31,8 @@ Each document is structured in the following way:
   * headers
   * Bold - emphasis
   * tables
+  * [markdown.md](markdown.md)  
+  <br>
 
 * Github - management 3 mins (Mari, Dani)
   * assign issues
@@ -35,13 +40,14 @@ Each document is structured in the following way:
   * reviews
   * close issues
   * Notifactions
+  * [management.md](management.md)  
+  <br>
 
 * Kanban (Unassigned)
   * TBD - report back
 
-## Sub-modules Documents
-* [data.md](data.md)
-* [security.md](security.md)
-* [ml.md](ml.md)
-* [iot.md](iot.md)
-* [nn.md](nn.md)
+## Document List
+* [concepts.md](concepts.md)
+* [github.md](github.md)
+* [markdown.md](markdown.md)
+* [management.md](management.md)
